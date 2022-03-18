@@ -1,0 +1,29 @@
+body {
+    background-size: cover;
+}
+#h1 {
+    font-size: 25px;
+    width: 100%;
+    margin:0.1px;
+}
+#h3, #H3, #buttun{
+    font-size: 25px;
+
+}
+
+.div{
+    position: fixed;
+    color: cyan;
+    bottom:0;
+    width:100%;
+    background-color:darkblue;
+    line-height: 2;
+    text-align: center;
+}
+
+canvas{
+    border: 3px solid darkblue;
+    border-radius: 20px; 
+    margin-top: 150px;
+    box-shadow: 5px 5px 5px orange;
+}
